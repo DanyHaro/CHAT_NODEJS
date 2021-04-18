@@ -1,0 +1,57 @@
+body {
+    background: rgb(255, 255, 255);
+    color: rgb(29, 29, 29);
+    font-family: 'Nunito', sans-serif;
+}
+
+#message {
+    width: 100%;
+    margin: 0px 10px;
+}
+
+#chat-container {
+    max-width: 600px;
+    margin: 30px auto;
+    border: 10px solid #ddd;
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+#chat-window {
+    padding: 14px 0px;
+    margin: 0px 20px;
+    border-bottom: 1px solid rgb(204, 156, 156);
+    color: #555;
+}
+
+#output {
+    color: #aaa;
+    padding: 14px 0px;
+    margin: 0px 20px;
+}
+
+#actions p {
+    padding: 14px 0px;
+    margin: 0px 20px;
+    /* border-bottom: 8px solid rgb(53, 52, 52);
+    color: #555; */
+}
+
+input {
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border: 0;
+    background: #eee;
+    display: block;
+    width: 100%;
+}
+
+
+/* button {
+    background: rgb(40, 204, 53);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border: 0px;
+    padding: 12px 0px;
+    width: 100%;
+    border-radius: 0px 0px 2px 2px;
+} */

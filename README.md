@@ -1,0 +1,6 @@
+## CHAT USANDO SOCKET.IO
+## TAREA 2 - DESARROLLO DE APLICACIONES DISTRIBUIDAS
+
+- font awesome
+- express
+- socket.io
